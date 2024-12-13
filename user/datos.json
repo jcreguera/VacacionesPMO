@@ -5,7 +5,7 @@
     "persons": [
       {
         "id": "person-1",
-        "name": "José Antonio",
+        "name": "JosÃ© Antonio",
         "color": "#FF8080",
         "maxDays": 10,
         "selectedDates": [],
@@ -39,16 +39,8 @@
           "2024-12-12"
         ],
         "isActive": true
-      },
-      {
-        "id": "person-5",
-        "name": "Persona 5",
-        "color": "#d1c65d",
-        "maxDays": 16,
-        "selectedDates": [],
-        "isActive": false
       }
     ]
   },
-  "exportDate": "2024-12-13T08:17:44.912Z"
+  "exportDate": "2024-12-13T08:20:45.174Z"
 }
