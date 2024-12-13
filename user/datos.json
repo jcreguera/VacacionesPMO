@@ -1,0 +1,41 @@
+{
+  "config": {
+    "monthsToShow": 12,
+    "monthsPerRow": 6,
+    "persons": [
+      {
+        "id": "person-1",
+        "name": "José Antonio",
+        "color": "#FF8080",
+        "maxDays": 10,
+        "selectedDates": [],
+        "isActive": false
+      },
+      {
+        "id": "person-2",
+        "name": "Pascual",
+        "color": "#1E40AF",
+        "maxDays": 10,
+        "selectedDates": [],
+        "isActive": false
+      },
+      {
+        "id": "person-3",
+        "name": "Jennifer",
+        "color": "#FFD700",
+        "maxDays": 10,
+        "selectedDates": [],
+        "isActive": false
+      },
+      {
+        "id": "person-4",
+        "name": "Juan Carlos",
+        "color": "#3B82F6",
+        "maxDays": 10,
+        "selectedDates": [],
+        "isActive": false
+      }
+    ]
+  },
+  "exportDate": "2024-12-13T08:16:51.010Z"
+}
