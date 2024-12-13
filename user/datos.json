@@ -1,11 +1,11 @@
 {
   "config": {
-    "monthsToShow": 12,
-    "monthsPerRow": 6,
+    "monthsToShow": 3,
+    "monthsPerRow": 3,
     "persons": [
       {
         "id": "person-1",
-        "name": "José Antonio",
+        "name": "JosÃ© Antonio",
         "color": "#FF8080",
         "maxDays": 10,
         "selectedDates": [
@@ -75,5 +75,5 @@
       }
     ]
   },
-  "exportDate": "2024-12-13T08:23:31.849Z"
+  "exportDate": "2024-12-13T08:47:24.618Z"
 }
