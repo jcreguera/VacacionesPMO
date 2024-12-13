@@ -5,10 +5,18 @@
     "persons": [
       {
         "id": "person-1",
-        "name": "JosÃ© Antonio",
+        "name": "José Antonio",
         "color": "#FF8080",
         "maxDays": 10,
-        "selectedDates": [],
+        "selectedDates": [
+          "2024-12-17",
+          "2024-12-18",
+          "2024-12-19",
+          "2024-12-22",
+          "2024-12-25",
+          "2024-12-26",
+          "2024-12-29"
+        ],
         "isActive": false
       },
       {
@@ -16,31 +24,56 @@
         "name": "Pascual",
         "color": "#1E40AF",
         "maxDays": 10,
-        "selectedDates": [],
-        "isActive": false
+        "selectedDates": [
+          "2025-01-01",
+          "2025-01-02"
+        ],
+        "isActive": true
       },
       {
         "id": "person-3",
         "name": "Jennifer",
         "color": "#FFD700",
-        "maxDays": 10,
-        "selectedDates": [],
+        "maxDays": 14,
+        "selectedDates": [
+          "2024-12-04",
+          "2024-12-08",
+          "2024-12-09",
+          "2024-12-10",
+          "2024-12-11",
+          "2024-12-12",
+          "2024-12-15",
+          "2024-12-16",
+          "2024-12-17",
+          "2024-12-18",
+          "2024-12-19"
+        ],
         "isActive": false
       },
       {
         "id": "person-4",
         "name": "Juan Carlos",
         "color": "#3B82F6",
-        "maxDays": 10,
+        "maxDays": 14,
         "selectedDates": [
+          "2024-12-01",
+          "2024-12-02",
+          "2024-12-03",
+          "2024-12-04",
           "2024-12-09",
           "2024-12-10",
           "2024-12-11",
-          "2024-12-12"
+          "2024-12-12",
+          "2024-12-22",
+          "2024-12-25",
+          "2024-12-26",
+          "2024-12-29",
+          "2025-01-01",
+          "2025-01-02"
         ],
-        "isActive": true
+        "isActive": false
       }
     ]
   },
-  "exportDate": "2024-12-13T08:22:09.099Z"
+  "exportDate": "2024-12-13T08:23:31.849Z"
 }
