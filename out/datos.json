@@ -23,7 +23,7 @@
         "id": "person-3",
         "name": "Jennifer",
         "color": "#FFD700",
-        "maxDays": 10,
+        "maxDays": 20,
         "selectedDates": [],
         "isActive": false
       },
@@ -31,7 +31,7 @@
         "id": "person-4",
         "name": "Juan Carlos",
         "color": "#3B82F6",
-        "maxDays": 10,
+        "maxDays": 15,
         "selectedDates": [
           "2025-01-09",
           "2025-01-08",
