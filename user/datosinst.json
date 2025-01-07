@@ -36,23 +36,14 @@
         "isActive": false
       },
       {
-        "id": "person-6",
-        "name": "Tri­as y Pujol",
-        "color": "#ea1d0e",
+        "id": "person-5",
+        "name": "Trias y Pujol",
+        "color": "#b4f13f",
         "maxDays": 10,
-        "selectedDates": [
-          "2025-01-07",
-          "2025-01-08",
-          "2025-01-09",
-          "2025-01-12",
-          "2025-01-13",
-          "2025-01-14",
-          "2025-01-15",
-          "2025-01-16"
-        ],
-        "isActive": true
+        "selectedDates": [],
+        "isActive": false
       }
     ]
   },
-  "exportDate": "2025-01-07T13:04:52.020Z"
+  "exportDate": "2025-01-07T13:06:07.272Z"
 }
