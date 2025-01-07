@@ -16,8 +16,19 @@
         "name": "Monforte de Lemos",
         "color": "#1E40AF",
         "maxDays": 100,
-        "selectedDates": [],
-        "isActive": false
+        "selectedDates": [
+          "2025-01-26",
+          "2025-01-27",
+          "2025-01-28",
+          "2025-01-29",
+          "2025-01-30",
+          "2025-02-02",
+          "2025-02-03",
+          "2025-02-04",
+          "2025-02-05",
+          "2025-02-06"
+        ],
+        "isActive": true
       },
       {
         "id": "person-3",
@@ -49,7 +60,7 @@
         "color": "#f068a3",
         "maxDays": 10,
         "selectedDates": [],
-        "isActive": true
+        "isActive": false
       },
       {
         "id": "person-7",
@@ -61,5 +72,5 @@
       }
     ]
   },
-  "exportDate": "2025-01-07T14:54:11.803Z"
+  "exportDate": "2025-01-07T15:20:33.726Z"
 }
