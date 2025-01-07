@@ -49,7 +49,7 @@
         "color": "#f068a3",
         "maxDays": 10,
         "selectedDates": [],
-        "isActive": false
+        "isActive": true
       },
       {
         "id": "person-7",
@@ -61,5 +61,5 @@
       }
     ]
   },
-  "exportDate": "2025-01-07T13:07:41.028Z"
+  "exportDate": "2025-01-07T13:14:43.557Z"
 }
