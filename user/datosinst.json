@@ -37,7 +37,7 @@
       },
       {
         "id": "person-6",
-        "name": "Trías y Pujol",
+        "name": "Tri­as y Pujol",
         "color": "#ea1d0e",
         "maxDays": 10,
         "selectedDates": [],
@@ -45,5 +45,5 @@
       }
     ]
   },
-  "exportDate": "2025-01-07T12:56:07.084Z"
+  "exportDate": "2025-01-07T12:56:55.490Z"
 }
