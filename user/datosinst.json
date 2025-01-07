@@ -7,7 +7,7 @@
         "id": "person-1",
         "name": "HURH",
         "color": "#FF8080",
-        "maxDays": 100,
+        "maxDays": 300,
         "selectedDates": [],
         "isActive": false
       },
@@ -15,7 +15,7 @@
         "id": "person-2",
         "name": "Monforte de Lemos",
         "color": "#1E40AF",
-        "maxDays": 100,
+        "maxDays": 300,
         "selectedDates": [
           "2025-01-26",
           "2025-01-27",
@@ -34,7 +34,7 @@
         "id": "person-3",
         "name": "Actualizaciones",
         "color": "#FFD700",
-        "maxDays": 100,
+        "maxDays": 300,
         "selectedDates": [],
         "isActive": false
       },
@@ -42,7 +42,7 @@
         "id": "person-4",
         "name": "Morales Messeguer",
         "color": "#3B82F6",
-        "maxDays": 100,
+        "maxDays": 300,
         "selectedDates": [
           "2025-03-20",
           "2025-03-19",
@@ -86,7 +86,7 @@
         "id": "person-5",
         "name": "Trias y Pujol",
         "color": "#b4f13f",
-        "maxDays": 10,
+        "maxDays": 300,
         "selectedDates": [],
         "isActive": false
       },
@@ -102,7 +102,7 @@
         "id": "person-7",
         "name": "Monforte de Lemos",
         "color": "#7b3d9a",
-        "maxDays": 10,
+        "maxDays": 300,
         "selectedDates": [],
         "isActive": false
       },
@@ -110,7 +110,7 @@
         "id": "person-9",
         "name": "Caravaca",
         "color": "#27d2bc",
-        "maxDays": 10,
+        "maxDays": 300,
         "selectedDates": [
           "2025-03-09",
           "2025-03-10",
