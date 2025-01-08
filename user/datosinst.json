@@ -129,7 +129,7 @@
       },
       {
         "id": "person-8",
-        "name": "Reina Sofía",
+        "name": "Reina SofÃ­a",
         "color": "#ad0c5b",
         "maxDays": 300,
         "selectedDates": [
@@ -165,8 +165,16 @@
           "2025-06-12"
         ],
         "isActive": true
+      },
+      {
+        "id": "person-11",
+        "name": "FIESTAS",
+        "color": "#bf306b",
+        "maxDays": 300,
+        "selectedDates": [],
+        "isActive": false
       }
     ]
   },
-  "exportDate": "2025-01-07T16:11:32.915Z"
+  "exportDate": "2025-01-08T09:44:04.766Z"
 }
