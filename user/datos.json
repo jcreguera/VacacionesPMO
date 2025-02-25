@@ -5,18 +5,10 @@
     "persons": [
       {
         "id": "person-1",
-        "name": "JosÃ© Antonio",
+        "name": "José Antonio",
         "color": "#FF8080",
         "maxDays": 10,
-        "selectedDates": [
-          "2024-12-17",
-          "2024-12-18",
-          "2024-12-19",
-          "2024-12-22",
-          "2024-12-25",
-          "2024-12-26",
-          "2024-12-29"
-        ],
+        "selectedDates": [],
         "isActive": false
       },
       {
@@ -24,59 +16,26 @@
         "name": "Pascual",
         "color": "#1E40AF",
         "maxDays": 10,
-        "selectedDates": [
-          "2025-01-01",
-          "2025-01-02"
-        ],
+        "selectedDates": [],
         "isActive": false
       },
       {
         "id": "person-3",
         "name": "Jennifer",
         "color": "#FFD700",
-        "maxDays": 14,
-        "selectedDates": [
-          "2024-12-16",
-          "2024-12-17",
-          "2024-12-18",
-          "2024-12-19",
-          "2024-12-22",
-          "2024-12-29",
-          "2025-01-01",
-          "2025-01-02",
-          "2025-01-06",
-          "2025-01-07",
-          "2025-01-08",
-          "2025-01-30",
-          "2024-12-25",
-          "2024-12-26"
-        ],
-        "isActive": true
+        "maxDays": 10,
+        "selectedDates": [],
+        "isActive": false
       },
       {
         "id": "person-4",
         "name": "Juan Carlos",
         "color": "#3B82F6",
-        "maxDays": 14,
-        "selectedDates": [
-          "2024-12-01",
-          "2024-12-02",
-          "2024-12-03",
-          "2024-12-04",
-          "2024-12-09",
-          "2024-12-10",
-          "2024-12-11",
-          "2024-12-12",
-          "2024-12-22",
-          "2024-12-25",
-          "2024-12-26",
-          "2024-12-29",
-          "2025-01-01",
-          "2025-01-02"
-        ],
+        "maxDays": 10,
+        "selectedDates": [],
         "isActive": false
       }
     ]
   },
-  "exportDate": "2024-12-20T13:39:44.524Z"
+  "exportDate": "2025-02-25T10:57:32.216Z"
 }
