@@ -7,7 +7,7 @@
         "id": "person-1",
         "name": "José Antonio",
         "color": "#FF8080",
-        "maxDays": 10,
+        "maxDays": 28,
         "selectedDates": [],
         "isActive": false
       },
@@ -15,7 +15,7 @@
         "id": "person-2",
         "name": "Pascual",
         "color": "#1E40AF",
-        "maxDays": 10,
+        "maxDays": 29,
         "selectedDates": [],
         "isActive": false
       },
@@ -23,7 +23,7 @@
         "id": "person-3",
         "name": "Jennifer",
         "color": "#FFD700",
-        "maxDays": 10,
+        "maxDays": 29,
         "selectedDates": [],
         "isActive": false
       },
@@ -31,11 +31,11 @@
         "id": "person-4",
         "name": "Juan Carlos",
         "color": "#3B82F6",
-        "maxDays": 10,
+        "maxDays": 29,
         "selectedDates": [],
         "isActive": false
       }
     ]
   },
-  "exportDate": "2025-02-25T10:57:32.216Z"
+  "exportDate": "2025-02-25T10:58:25.745Z"
 }
