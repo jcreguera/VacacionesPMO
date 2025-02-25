@@ -15,7 +15,7 @@
         "id": "person-2",
         "name": "Pascual",
         "color": "#1E40AF",
-        "maxDays": 29,
+        "maxDays": 34,
         "selectedDates": [],
         "isActive": false
       },
@@ -37,5 +37,5 @@
       }
     ]
   },
-  "exportDate": "2025-02-25T10:58:25.745Z"
+  "exportDate": "2025-02-25T10:58:57.329Z"
 }
