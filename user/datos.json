@@ -5,7 +5,7 @@
     "persons": [
       {
         "id": "person-1",
-        "name": "José Antonio",
+        "name": "JosÃ© Antonio",
         "color": "#FF8080",
         "maxDays": 27,
         "selectedDates": [],
@@ -16,7 +16,12 @@
         "name": "Pascual",
         "color": "#1E40AF",
         "maxDays": 34,
-        "selectedDates": [],
+        "selectedDates": [
+          "2025-04-13",
+          "2025-04-14",
+          "2025-04-15",
+          "2025-04-16"
+        ],
         "isActive": false
       },
       {
@@ -24,8 +29,12 @@
         "name": "Jennifer",
         "color": "#FFD700",
         "maxDays": 29,
-        "selectedDates": [],
-        "isActive": false
+        "selectedDates": [
+          "2025-04-13",
+          "2025-04-14",
+          "2025-04-15"
+        ],
+        "isActive": true
       },
       {
         "id": "person-4",
@@ -37,5 +46,5 @@
       }
     ]
   },
-  "exportDate": "2025-02-25T11:00:44.625Z"
+  "exportDate": "2025-03-31T14:52:38.051Z"
 }
