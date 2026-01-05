@@ -7,7 +7,7 @@
         "id": "person-1",
         "name": "José Antonio",
         "color": "#FF8080",
-        "maxDays": 27,
+        "maxDays": 28,
         "selectedDates": [],
         "isActive": false
       },
@@ -37,5 +37,5 @@
       }
     ]
   },
-  "exportDate": "2026-01-05T10:46:42.796Z"
+  "exportDate": "2026-01-05T10:46:59.165Z"
 }
