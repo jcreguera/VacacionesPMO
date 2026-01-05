@@ -1,7 +1,7 @@
 {
   "config": {
-    "monthsToShow": 12,
-    "monthsPerRow": 6,
+    "monthsToShow": 3,
+    "monthsPerRow": 3,
     "persons": [
       {
         "id": "person-1",
@@ -37,5 +37,5 @@
       }
     ]
   },
-  "exportDate": "2026-01-05T10:46:59.165Z"
+  "exportDate": "2026-01-05T10:51:18.683Z"
 }
