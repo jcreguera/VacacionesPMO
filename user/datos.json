@@ -24,8 +24,14 @@
         "name": "Jennifer",
         "color": "#FFD700",
         "maxDays": 28,
-        "selectedDates": [],
-        "isActive": false
+        "selectedDates": [
+          "2026-08-02",
+          "2026-08-03",
+          "2026-08-04",
+          "2026-08-05",
+          "2026-08-06"
+        ],
+        "isActive": true
       },
       {
         "id": "person-4",
@@ -37,5 +43,5 @@
       }
     ]
   },
-  "exportDate": "2026-04-08T12:34:36.291Z"
+  "exportDate": "2026-04-08T12:35:30.285Z"
 }
