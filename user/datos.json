@@ -1,6 +1,6 @@
 {
   "config": {
-    "monthsToShow": 6,
+    "monthsToShow": 12,
     "monthsPerRow": 6,
     "persons": [
       {
@@ -32,14 +32,10 @@
         "name": "Juan Carlos",
         "color": "#3B82F6",
         "maxDays": 31,
-        "selectedDates": [
-          "2026-03-29",
-          "2026-03-30",
-          "2026-03-31"
-        ],
+        "selectedDates": [],
         "isActive": false
       }
     ]
   },
-  "exportDate": "2026-03-20T08:36:53.958Z"
+  "exportDate": "2026-04-08T12:34:36.291Z"
 }
