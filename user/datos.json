@@ -7,9 +7,12 @@
         "id": "person-1",
         "name": "José Antonio",
         "color": "#FF8080",
-        "maxDays": 28,
-        "selectedDates": [],
-        "isActive": false
+        "maxDays": 27,
+        "selectedDates": [
+          "2026-03-19",
+          "2026-03-17"
+        ],
+        "isActive": true
       },
       {
         "id": "person-2",
@@ -44,9 +47,12 @@
           "2026-08-27",
           "2026-08-26",
           "2026-08-25",
-          "2026-08-24"
+          "2026-08-24",
+          "2026-03-29",
+          "2026-03-30",
+          "2026-03-31"
         ],
-        "isActive": true
+        "isActive": false
       },
       {
         "id": "person-4",
@@ -64,5 +70,5 @@
       }
     ]
   },
-  "exportDate": "2026-04-08T12:39:59.450Z"
+  "exportDate": "2026-04-08T12:41:38.253Z"
 }
