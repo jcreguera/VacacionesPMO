@@ -140,11 +140,11 @@
         "id": "person-5",
         "name": "Paola",
         "color": "#16f09a",
-        "maxDays": 27,
+        "maxDays": 28,
         "selectedDates": [],
-        "isActive": false
+        "isActive": true
       }
     ]
   },
-  "exportDate": "2026-07-10T11:05:01.912Z"
+  "exportDate": "2026-07-10T11:05:49.524Z"
 }
