@@ -114,8 +114,16 @@
           "2026-04-21"
         ],
         "isActive": false
+      },
+      {
+        "id": "person-5",
+        "name": "Paola",
+        "color": "#16f09a",
+        "maxDays": 27,
+        "selectedDates": [],
+        "isActive": false
       }
     ]
   },
-  "exportDate": "2026-04-24T09:40:47.882Z"
+  "exportDate": "2026-07-10T10:17:39.739Z"
 }
