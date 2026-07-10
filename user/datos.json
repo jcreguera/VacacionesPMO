@@ -139,7 +139,7 @@
       {
         "id": "person-5",
         "name": "Paola",
-        "color": "#16f09a",
+        "color": "#63d9aa",
         "maxDays": 28,
         "selectedDates": [
           "2026-08-02",
@@ -167,5 +167,5 @@
       }
     ]
   },
-  "exportDate": "2026-07-10T11:06:37.689Z"
+  "exportDate": "2026-07-10T11:07:02.758Z"
 }
