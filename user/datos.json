@@ -164,8 +164,16 @@
           "2026-08-23"
         ],
         "isActive": true
+      },
+      {
+        "id": "person-6",
+        "name": "Pedro",
+        "color": "#910f78",
+        "maxDays": 31,
+        "selectedDates": [],
+        "isActive": false
       }
     ]
   },
-  "exportDate": "2026-07-10T11:07:24.908Z"
+  "exportDate": "2026-07-13T10:21:06.382Z"
 }
